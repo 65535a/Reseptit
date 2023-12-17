@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "c8f4cabd4e7ebc98",
+    "type": "split",
+    "children": [
+      {
+        "id": "54f0b3a41d6c5ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83a0f394df52f54c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cd13a2790e14c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linkit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4285b4ee5d46607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poropasta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0521114b8e14fc33",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2297310230aac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4238e7b169a12d9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "013db53019031822",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f48e26f702e19eca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0579be86c757b19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ea94c62e48e4bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b005ee6826a2f68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Poropasta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e45e8f387bd4d89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Poropasta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a1284b482004364",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b1de1a5f8a6c67a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Poropasta.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4285b4ee5d46607",
+  "lastOpenFiles": [
+    "Linkit.md",
+    "Poropasta.md",
+    "Kanttarellipasta.md",
+    "Äitin kanakastike.md",
+    "Sairaan pehmee hapanjuuripaahtoleipä.md",
+    "Vaalea hapanjuurileipä nro. 1.md",
+    "Untitled.md",
+    "NY pizza (seriouseats).md",
+    "Sairaan pehmeä hapanjuuripaahtoleipä.md"
+  ]
+}
