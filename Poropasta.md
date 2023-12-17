@@ -2,21 +2,21 @@
 
 **Ainekset:**
 
-300-400 g poron jauhelihaa (riista käy myös korvikkeena paremman puutteessa)
-200-300 g pastaa (spagetti tai tagliatelle toimii ehkä parhaiten)
-1 punasipuli
-2-3 valkosipulin kynttä
-1 reilu kourallinen kuivattuja mustia torvisieniä (voi korvata esim. suppilovahveroilla)
-0,5 rkl dijon-sinappia
-2 dl kuohukermaa
-Loraus oliiviöljyä
-1 rkl voita
-1-2 tl murskattua katajanmarjaa
-Ripaus timjamia
-Suolaa
-Pippuria
-Persiljaa
-(Hifimmässä versiossa loraus punaviiniä)
+- 300-400 g poron jauhelihaa (riista käy myös korvikkeena paremman puutteessa)
+- 200-300 g pastaa (spagetti tai tagliatelle toimii ehkä parhaiten)
+- 1 punasipuli
+- 2-3 valkosipulin kynttä
+- 1 reilu kourallinen kuivattuja mustia torvisieniä (voi korvata esim. suppilovahveroilla)
+- 0,5 rkl dijon-sinappia
+- 2 dl kuohukermaa
+- Loraus oliiviöljyä
+- 1 rkl voita
+- 1-2 tl murskattua katajanmarjaa
+- Ripaus timjamia
+- Suolaa
+- Pippuria
+- Persiljaa
+- (Hifimmässä versiossa loraus punaviiniä)
 
 **Metodi:**
 

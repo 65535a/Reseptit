@@ -1,3 +1,5 @@
+(Kesken)
+
 1 sipuli
 3 isoa valkosipulinkynttä
 Oliiviöljyä
