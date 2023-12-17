@@ -8,7 +8,7 @@
 - Pieni kourallinen auringonkukansiemeniä
 
 1. Lisää ainekset yleiskoneeseen ja sekota yhteen.
-2. Lepuuta taikinaa tunnin ajan. 
+2. Lepuuta taikinaa tunnin ajan. (voi skipata jos kiire)
 3. Vaivaa 15 min nopeudella 1.
 4. Lisää suola ja vaivaa vielä 5 min.
 5. Kohota 4 tuntia tai kunnes tuplaantunut.
