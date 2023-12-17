@@ -2,7 +2,7 @@
 - Muutama valkosipuli
 - Voita 1 rkl 
 - Oliiviöljyä 2-3 rkl
-- Spagettia
+- Spagettia (emt. 200-300 g?)
 - Tryffeliöljyä 0,5 - 1 rkl
 - Parmesania reilusti
 - Timjamia
